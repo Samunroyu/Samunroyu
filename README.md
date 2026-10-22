@@ -1,6 +1,6 @@
 ### Hi! :wave: I'm Samunroyu 
 - :city_sunrise: I'm a storage system developer.
-- :rainbow: Working on Apache Pegasus and a 3FS-like distributed file system.
+- :rainbow: Working on [Apache Pegasus](https://github.com/apache/incubator-pegasus) and a 3FS-like distributed file system.
 - :blush: Glad to meet you, feel free to engage in communication.
 
 ### Profile Stats
@@ -21,7 +21,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash">
 
 🗄️ Storage:
-<img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Pegasus-D22128?style=flat&logo=apache&labelColor=ffffff">
+<a href="https://github.com/apache/incubator-pegasus"><img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Pegasus-D22128?style=flat&logo=apache&labelColor=ffffff"></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/3FS%20like%20System-1F6FEB?style=flat&logo=databricks&labelColor=ffffff">
 <img alt="Static Badge" src="https://img.shields.io/badge/RocksDB-005E8A?style=flat&logo=rocksdb&labelColor=ffffff">
 
