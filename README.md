@@ -1,6 +1,6 @@
 ### Hi! :wave: I'm Samunroyu 
-- :city_sunrise: I'm a developer exploring the intersection of code & AI.
-- :rainbow: My recent interests: AI Agents, Web Games & Developer Tooling.
+- :city_sunrise: I'm a storage system developer.
+- :rainbow: Working on Apache Pegasus and a 3FS-like distributed file system.
 - :blush: Glad to meet you, feel free to engage in communication.
 
 ### Profile Stats
@@ -17,9 +17,13 @@
 💽 Language:
 <img alt="Static Badge" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python">
-<img alt="Static Badge" src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=000000">
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=ffffff">
+<img alt="Static Badge" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go">
 <img alt="Static Badge" src="https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash">
+
+🗄️ Storage:
+<img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Pegasus-D22128?style=flat&logo=apache&labelColor=ffffff">
+<img alt="Static Badge" src="https://img.shields.io/badge/3FS%20like%20System-1F6FEB?style=flat&logo=databricks&labelColor=ffffff">
+<img alt="Static Badge" src="https://img.shields.io/badge/RocksDB-005E8A?style=flat&logo=rocksdb&labelColor=ffffff">
 
 🎇 Tools & AI:
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&labelColor=ffffff">
