@@ -1,7 +1,12 @@
 ### Hi! :wave: I'm Samunroyu 
-- :city_sunrise: I'm a storage system developer.
-- :rainbow: Working on [Apache Pegasus](https://github.com/apache/incubator-pegasus) and a 3FS-like distributed file system.
+- :city_sunrise: I'm a storage system developer, **Committer of [Apache Pegasus](https://github.com/apache/incubator-pegasus)**.
+- :rainbow: Working on Apache Pegasus and a 3FS-like distributed file system.
 - :blush: Glad to meet you, feel free to engage in communication.
+
+### 你好！:wave: 我是 Samunroyu
+- :city_sunrise: 我是一名存储系统开发者，**Apache Pegasus Committer**。
+- :rainbow: 正在做 Apache Pegasus 和一套类 3FS 的分布式文件系统。
+- :blush: 很高兴认识你，欢迎交流探讨。
 
 ### Profile Stats
 
